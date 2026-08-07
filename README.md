@@ -1,5 +1,24 @@
 # Practicing DevSecOps — SDLC a vyplněný EXERCISE (THREAT MODELLING) 
 
+## 📝 Notes
+
+This repository is part of my ongoing **cybersecurity learning journey**.
+
+It serves as a practical collection of:
+
+* study notes
+* exercises
+* security concepts
+* experiments
+* DevSecOps practices
+* application security examples
+
+The goal is to connect **theory with practical cybersecurity skills** and gradually build a strong foundation for a career in cybersecurity.
+
+
+
+
+
 ## 📚 Overview
 
 **SDLC (Software Development Life Cycle)** is the process used to plan, design, develop, test, deploy, and maintain software.
@@ -403,21 +422,6 @@ Through this repository I am practicing and documenting:
 * **Application security** — ochrana aplikací před bezpečnostními hrozbami
 
 ---
-
-## 📝 Notes
-
-This repository is part of my ongoing **cybersecurity learning journey**.
-
-It serves as a practical collection of:
-
-* study notes
-* exercises
-* security concepts
-* experiments
-* DevSecOps practices
-* application security examples
-
-The goal is to connect **theory with practical cybersecurity skills** and gradually build a strong foundation for a career in cybersecurity.
 
 
 
