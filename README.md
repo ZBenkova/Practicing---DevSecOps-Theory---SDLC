@@ -1,4 +1,4 @@
-# Practicing DevSecOps — SDLC a vyplněný EXERCISE (THREAT MODELLING) 
+# Practicing DevSecOps — SDLC a vyplněný EXERCISE (THREAT MODELING) 
 
 ## 📝 Notes
 
